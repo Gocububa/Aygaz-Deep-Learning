@@ -1,6 +1,6 @@
 # Aygaz-Deep-Learning
 There are two files as you can see. One of them (Aygaz Nöronlarıı) is the project that me and my team
-have developed together and the other one (Untitled0) is the project i have personally developed myself during
+have developed together and the other one (Untitled1) is the project i have personally developed myself during
 the Aygaz Deep Learning Bootcamp. During this bootcamp, we were asked to build a CNN model that predicts a dog's breed
 accurately.
 At the group project file, you can see the accuracy was 0.09 and the loss was 4.3.
